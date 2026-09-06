@@ -6,7 +6,7 @@ import thaumcraft.common.blocks.BlockMagicalLeaves;
 
 public class EM_PhysManager_TC {
 
-    public static boolean checkLeaves(Block block) {
-        return block instanceof BlockMagicalLeaves;
-    }
+public static boolean checkLeaves(Block block) {
+    return false;
+}
 }
