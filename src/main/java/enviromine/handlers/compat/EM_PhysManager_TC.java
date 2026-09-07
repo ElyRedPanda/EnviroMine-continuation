@@ -1,6 +1,6 @@
-package enviromine.handlers.compat;
+//package enviromine.handlers.compat;
 
-import net.minecraft.block.Block;
+//import net.minecraft.block.Block;
 
 //import thaumcraft.common.blocks.BlockMagicalLeaves;
 
